@@ -26,4 +26,4 @@ An interactive Power BI dashboard developed to analyze and monitor medical procu
 - Business Impact
 
 This dashboard helps healthcare organizations improve procurement efficiency, monitor supplier reliability, reduce operational costs, prevent stock shortages, and enhance data-driven decision-making across medical supply chain operations.
-![Dashboard](Medical dataset/Screenshot/dashboard.png)
+![Dashboard](Medical/Screenshot/dashboard.png)
