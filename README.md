@@ -19,7 +19,6 @@ An interactive Power BI dashboard developed to analyze and monitor medical procu
 - Procurement Efficiency Rate
 
 ## Tools & Technologies
-- Power BI
 - Excel
 - DAX
 - Data Cleaning & Transformation
@@ -27,5 +26,4 @@ An interactive Power BI dashboard developed to analyze and monitor medical procu
 - Business Impact
 
 This dashboard helps healthcare organizations improve procurement efficiency, monitor supplier reliability, reduce operational costs, prevent stock shortages, and enhance data-driven decision-making across medical supply chain operations.
-![Dashboard](
-![Dashboard](
+![Dashboard](Medical dataset/Screenshot/dashboard.png)
